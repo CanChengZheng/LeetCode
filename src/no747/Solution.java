@@ -1,4 +1,4 @@
-package com.zcc.java.no747;
+package no747;
 
 /**
  * @author ZCC
