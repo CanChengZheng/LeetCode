@@ -17,10 +17,7 @@ public class Solution {
         }
 
         for(int i = 0; i< nums.length; i++) {
-            if(i == index) {
-                continue;
-            }
-            if(nums[i] * 2 > nums[index]) {
+            if(i != index && nums[i] * 2 > nums[index]) {
                 return -1;
             }
         }
