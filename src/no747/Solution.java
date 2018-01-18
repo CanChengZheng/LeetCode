@@ -3,7 +3,7 @@ package no747;
 /**
  * @author ZCC
  * @date 2018/1/16
- * @description 两次变量数组
+ * @description 两次遍历数组
  * 1. 第一次获取最大值
  * 2. 第二次遍历数组是否存在两倍大于最大值的数
  */
