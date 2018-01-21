@@ -4,6 +4,7 @@ LeetCode solutions in Java 1.8.
 
 | No. | Title | Note | Tag |
 | ------------- |:-------------:|:-------------:|:-------------:|
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no27) | `Array`
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no217) | `Array`
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Note]() | `Array` `DFS`
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no724) | `Array`
