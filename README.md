@@ -5,6 +5,7 @@ LeetCode solutions in Java 1.8.
 | No. | Title | Note | Tag |
 | ------------- |:-------------:|:-------------:|:-------------:|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no1) | `Array`
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no2) | `Linked List`
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no27) | `Array`
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no217) | `Array`
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | **未完成** | `Array` `DFS`
