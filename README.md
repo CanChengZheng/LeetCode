@@ -7,7 +7,9 @@ LeetCode solutions in Java 1.8.
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no1) | `Array`
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no2) | `Linked List`
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no3) | `Hash Table` `String`
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [未完成](https://github.com/CanChengZheng/LeetCode/tree/master/src/no4) | `Array` `Binary Search` `Divide and Conquer`
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no27) | `Array`
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no179) | `Sort`
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no217) | `Array`
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no695) | `Array` `DFS`
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no724) | `Array`

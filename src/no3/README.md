@@ -6,11 +6,11 @@
 
 字符串`abcabcbb`, 最长的无重复字符的字符串是`abc`, 应返回长度`3`。
 
-## Example1
+## Example2
 
 字符串`bbbbb`, 最长的无重复字符的字符串是`b`, 应返回长度`1`。
 
-## Example1
+## Example3
 
 字符串`pwwkew`, 最长的无重复字符的字符串是`wke`, 应返回长度`3`。
 
