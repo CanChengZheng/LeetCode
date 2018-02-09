@@ -10,6 +10,7 @@ LeetCode solutions in Java 1.8.
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [未完成](https://github.com/CanChengZheng/LeetCode/tree/master/src/no4) | `Array` `Binary Search` `Divide and Conquer`
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no7) | `Math`
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no27) | `Array`
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no141) | `Linked List` `Two Pointers`
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no179) | `Sort`
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no217) | `Array`
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no695) | `Array` `DFS`
