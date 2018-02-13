@@ -16,6 +16,7 @@ LeetCode solutions in Java 1.8.
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no142) | `Linked List` `Two Pointers` `Set`
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no179) | `Sort`
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no217) | `Array`
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no380) | `Array` `HashTable` `Design`
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no654) | `Tree`
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no695) | `Array` `DFS`
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no724) | `Array`
