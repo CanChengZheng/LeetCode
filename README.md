@@ -19,6 +19,7 @@ LeetCode solutions in Java 1.8.
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no179) | `Sort`
 | 198 | [House Robber](https://leetcode.com/problems/house-robber) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no198) | `DP`
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no217) | `Array`
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no338) | `DP` `Bit Manipulation`
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no380) | `Array` `HashTable` `Design`
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no461) | `Bit Manipulation`
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no654) | `Tree`
