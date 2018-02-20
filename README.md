@@ -22,6 +22,7 @@ LeetCode solutions in Java 1.8.
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no338) | `DP` `Bit Manipulation`
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no380) | `Array` `HashTable` `Design`
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no461) | `Bit Manipulation`
+| 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no647) | `String` `DP`
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no654) | `Tree`
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no669) | `Tree`
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no695) | `Array` `DFS`
