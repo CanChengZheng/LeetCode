@@ -15,6 +15,7 @@ LeetCode solutions in Java 1.8.
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no94) | `Tree` `Stack`
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no102) | `Tree` `DFS` `BFS`
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no136) | `Hash Table` `Bit Manipulation`
+| 137 | [Single Number II](https://leetcode.com/problems/single-number-ii) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no137) | `Bit Manipulation`
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no141) | `Linked List` `Two Pointers`
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no142) | `Linked List` `Two Pointers` `Set`
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no179) | `Sort`
