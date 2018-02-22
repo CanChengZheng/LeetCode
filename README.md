@@ -14,13 +14,14 @@ LeetCode solutions in Java 1.8.
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no93) | `String` `DFS`
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no94) | `Tree` `Stack`
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no102) | `Tree` `DFS` `BFS`
+| 136 | [Single Number](https://leetcode.com/problems/single-number) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no136) | `Hash Table` `Bit Manipulation`
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no141) | `Linked List` `Two Pointers`
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no142) | `Linked List` `Two Pointers` `Set`
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no179) | `Sort`
 | 198 | [House Robber](https://leetcode.com/problems/house-robber) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no198) | `DP`
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no217) | `Array`
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no338) | `DP` `Bit Manipulation`
-| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no380) | `Array` `HashTable` `Design`
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no380) | `Array` `Hash Table` `Design`
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no461) | `Bit Manipulation`
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no647) | `String` `DP`
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no654) | `Tree`
