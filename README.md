@@ -9,6 +9,7 @@ LeetCode solutions in Java 1.8.
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no3) | `Hash Table` `String`
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no4) | `Array` `Binary Search` `Divide and Conquer`
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no7) | `Math`
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no24) | `Linked List`
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no27) | `Array`
 | 79 | [Word Search](https://leetcode.com/problems/word-search) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no79) | `DFS` `Backtracking` `Array`
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no93) | `String` `DFS`
