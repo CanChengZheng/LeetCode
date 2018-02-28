@@ -24,6 +24,7 @@ LeetCode solutions in Java 1.8.
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no179) | `Sort`
 | 198 | [House Robber](https://leetcode.com/problems/house-robber) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no198) | `DP`
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no217) | `Array`
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no268) | `Array` `Math` `Bit Manipulation`
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no338) | `DP` `Bit Manipulation`
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no380) | `Array` `Hash Table` `Design`
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no461) | `Bit Manipulation`
