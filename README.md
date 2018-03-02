@@ -11,6 +11,7 @@ LeetCode solutions in Java 1.8.
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no7) | `Math`
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no24) | `Linked List`
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no27) | `Array`
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no33) | `Array` `Binary Search`
 | 79 | [Word Search](https://leetcode.com/problems/word-search) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no79) | `DFS` `Backtracking` `Array`
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no93) | `String` `DFS`
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no94) | `Tree` `Stack`
