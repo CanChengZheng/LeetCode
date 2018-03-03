@@ -33,6 +33,7 @@ LeetCode solutions in Java 1.8.
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no654) | `Tree`
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no669) | `Tree`
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no695) | `Array` `DFS`
+| 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no713) | `Array` `Two Pointers`
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no724) | `Array`
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no746) | `Array` `DP`
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | [Note](https://github.com/CanChengZheng/LeetCode/tree/master/src/no747) | `Array`
