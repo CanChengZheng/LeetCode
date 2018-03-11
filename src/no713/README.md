@@ -20,3 +20,6 @@
 - 指针变量`prev`指向左边，`back`指向右边，`[prev, back]`之间形成所要求的子数组。
 - 在子数组乘积满足小于`k`的情况，`back`一步一步向右推进，直到结尾。那么当`back`右移之后元素乘积大于等于`k`，则需要`prev`向右移动，直到满足条件位置。
 - 在小于`k`的情况下，累加每一次加入新元素后子数组的个数。
+
+## 参考文章
+>[LeetCode-713：Subarray Product Less Than K (乘积小于K的子数组个数) -- medium](http://blog.csdn.net/Koala_Tree/article/details/78497275?locationNum=9&fps=1)
